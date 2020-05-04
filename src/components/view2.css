@@ -1,0 +1,28 @@
+.selected{
+    width: 100%;
+    background-color: #80808036;
+    border: none;
+    margin-bottom: 10px;
+    border-radius:4px;
+    padding: 6px 10px;
+}
+
+.view2 {
+    min-height: 500px;
+    max-height: 550px;
+    overflow-y: scroll;
+}
+
+.form-check-label{
+    width: 100%;
+    margin: 10px 36px;
+    position: relative;
+    
+}
+
+.cross {
+    position: absolute;
+    right: 3%;
+    top: 8%;
+}
+
